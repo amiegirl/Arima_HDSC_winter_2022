@@ -7,12 +7,12 @@ Objective:
 Objective is to develop models to predict the performance by the main two candidates. Model will predict percentage performance in 2020 by Joe Biden and Donald Trump
 
 Featured Techniques:
-EDA
-Linear Regression
-Lasso Regression
-Random Forest Regression
-Gradient Boosting Regression
-Artifical Neural Network (ANN) Model
+.EDA
+.Linear Regression
+.Lasso Regression
+.Random Forest Regression
+.Gradient Boosting Regression
+.Artifical Neural Network (ANN) Model
 
 Results:Best results from predictions were obtained from the Linear model, GradientBoosting Regression and ANN Model
 Best results from hypertuning parameter was obtained at a learning rate of 0.005
